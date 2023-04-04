@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Script: Variables and Names
 # Author: Zachary Derrick                    
-# Date of latest revision:  2023-4-3    
+# Date of latest revision:  2023-4-4    
 # Purpose: Now we’ll do even more typing of variables and printing them out. This time we’ll use something called
 # a ”format string.” Every time you put " (double-quotes) around a piece of text you have been making a
 # string. A string is how you make something that your program might give to a human. You print strings,

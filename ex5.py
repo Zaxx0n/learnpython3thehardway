@@ -13,21 +13,21 @@
 # 3, ”Hey, this string needs to be formatted. Put these variables in there.”
 # As usual, just type this in even if you do not understand it, and make it exactly the same.
 
-my_name = "Zak S. Derrick"
-my_age = 43
-my_height = 73 # inches
-my_weight = 177 # pounds
-my_eyes = "Hazel"
-my_teeth = "White"
-my_hair = "Brown"
+name = "Zak S. Derrick"
+age = 43
+height = 73 # inches
+weight = 177 # pounds
+eyes = "Hazel"
+teeth = "White"
+hair = "Brown"
 
-print(f"Let's talk about {my_name}.")
-print(f"He's {my_height} inches tall.")
-print(f"He's {my_weight} pounds heavy.")
+print(f"Let's talk about {name}.")
+print(f"He's {height} inches tall.")
+print(f"He's {weight} pounds heavy.")
 print("Actually, that's not too heavy.")
-print(f"He's got {my_eyes} eyes and {my_hair} hair.")
-print(f"His teeth are usually {my_teeth} depending on the coffee.")
+print(f"He's got {eyes} eyes and {hair} hair.")
+print(f"His teeth are usually {teeth} depending on the coffee.")
 
 # this line is tricky, try to get it exactly right
 total = my_age + my_height + my_weight
-print(f"If I add {my_age}, {my_height}, and {my_weight} I get {total}.")
+print(f"If I add {age}, {height}, and {weight} I get {total}.")

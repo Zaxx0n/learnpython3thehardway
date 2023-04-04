@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Script: Variables and Names
+# Script: Strings and Text
 # Author: Zachary Derrick                    
 # Date of latest revision:  2023-4-4    
 # Purpose: We will now type in a whole bunch of strings, variables, and formats, and print them. You will also
